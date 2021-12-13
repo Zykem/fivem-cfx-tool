@@ -1,0 +1,16 @@
+{
+  "name": "fivem-users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zykem",
+  "license": "ISC",
+  "dependencies": {
+    "fivem": "^2.1.8",
+    "fivem-node-api": "^0.1.1"
+  },
+  "devDependencies": {}
+}
